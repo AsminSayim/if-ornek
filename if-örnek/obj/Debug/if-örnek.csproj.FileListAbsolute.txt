@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\bin\Debug\if-örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\bin\Debug\if-örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\bin\Debug\if-örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if-örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if-örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if_örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if_örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if-örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if-örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if-örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-örnek\if-örnek\obj\Debug\if-örnek.pdb
